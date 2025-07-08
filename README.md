@@ -6,3 +6,7 @@ Python multimedia application creation framework made with the [Percept](https:/
 - Extract it to a folder
 - Install ModernGL with: `pip install moderngl`
 - Run `main.py`
+
+## Licenses
+This project is licensed under MIT license.<br>
+This project uses [ModernGL, Copyright (c) 2017-2024 Szabolcs Dombi, Einar Forselv](https://github.com/moderngl/moderngl)
