@@ -5,4 +5,4 @@ Python multimedia application creation framework made with the [Percept](https:/
 - Download the latest release
 - Extract it to a folder
 - Install ModernGL with: `pip install moderngl`
-- Run main.py
+- Run `main.py`
