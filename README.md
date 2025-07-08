@@ -1,3 +1,9 @@
+<div align="center">
+
+[![preview](https://github.com/user-attachments/assets/f2b0e650-4ded-4c9e-9537-1aa70189a3d0)](#readme)
+
+</div>
+
 # Percept Engine
 Python multimedia application creation framework made with the [Percept](https://github.com/hkantt/percept) library.
 
